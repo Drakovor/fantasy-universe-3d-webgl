@@ -16,4 +16,5 @@ Controls:
 - Left Shift: faster review movement.
 - Mouse wheel / trackpad scroll / touch pinch / +/-: zoom.
 - Right mouse drag or Q/E: rotate camera.
+- Tab: toggle wide composition review camera.
 - H: hide/show design overlay.
