@@ -1,8 +1,8 @@
-# FantasyUniverse3D WebGL
+# FantasyUniverse3D WebGL build
 
-Playable WebGL export of the current Unity 6 URP fantasy universe vertical slice.
+Serve this folder over HTTP to test the current 3D vertical slice in a browser.
 
-Local test:
+Local test command:
 
 ```bash
 python3 -m http.server 4174 --bind 127.0.0.1
